@@ -47,7 +47,7 @@ The trained Linear Regression model achieved the following results on the unseen
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/insurance-cost-prediction-ml.git
+    git clone https://github.com/takzen/insurance-cost-prediction-ml.git
     cd insurance-cost-prediction-ml
     ```
 
